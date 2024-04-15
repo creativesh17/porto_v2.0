@@ -740,8 +740,1738 @@
 						</ul>
 					</div>
 					<div class="row portfolio-list sort-destination overflow-visible" data-sort-id="portfolio"
-						data-filter="*" style="position: relative; max-height: 6384px;" id="demo_item_html">
-			
+						data-filter="*" style="position: relative; height: 6384px;">
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 0px; top: 0px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo1.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop1.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 1</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 362.812px; top: 0px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo2.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop2.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 2</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 725.624px; top: 0px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="400" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo3.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop3.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 3</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1088.44px; top: 0px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="600" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo4.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop4.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 4</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1451.25px; top: 0px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo5.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop5.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 5</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 0px; top: 399px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo6.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop6.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 6</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 362.812px; top: 399px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="400" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo7.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop7.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 7</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 725.624px; top: 399px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="600" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo8.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop8.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 8</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1088.44px; top: 399px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo9.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop9.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 9</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1451.25px; top: 399px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo10.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop10.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 10</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 0px; top: 798px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo11.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop11.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 11</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 362.812px; top: 798px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo12.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop12.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 12</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 725.624px; top: 798px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo13.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop13.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 13</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1088.44px; top: 798px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo14.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop14.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 14</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1451.25px; top: 798px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo15.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop15.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 15</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 0px; top: 1197px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo16.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop16.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 16</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 362.812px; top: 1197px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo17.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop17.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 17</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 725.624px; top: 1197px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo18.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop18.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 18</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1088.44px; top: 1197px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo19.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop19.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 19</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1451.25px; top: 1197px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo20.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop20.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 20</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 0px; top: 1596px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo21.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop21.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 21</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 362.812px; top: 1596px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo22.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop22.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 22</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 725.624px; top: 1596px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo23.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop23.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 23</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1088.44px; top: 1596px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo24.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop24.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 24</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1451.25px; top: 1596px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo25.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop25.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 25</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 0px; top: 1995px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo26.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop26.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 26</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 362.812px; top: 1995px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo27.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop27.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 27</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 725.624px; top: 1995px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo28.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop28.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 28</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1088.44px; top: 1995px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo29.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop29.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 29</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1451.25px; top: 1995px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo30.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop30.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 30</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 0px; top: 2394px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo31.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop31.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 31</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 362.812px; top: 2394px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo32.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop32.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 32</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 725.624px; top: 2394px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo33.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop33.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 33</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1088.44px; top: 2394px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo34.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop34.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 34</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1451.25px; top: 2394px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo35.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop35.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 35</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 0px; top: 2793px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo36.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop36.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 36</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 362.812px; top: 2793px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo37.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop37.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 37</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 725.624px; top: 2793px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo38.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop38.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 38</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1088.44px; top: 2793px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo39.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop39.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 39</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1451.25px; top: 2793px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo40.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop40.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 40</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 0px; top: 3192px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo41.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop41.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 41</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 362.812px; top: 3192px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo42.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop42.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 42</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 725.624px; top: 3192px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo1-dark.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop1-dark.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 1 Dark</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1088.44px; top: 3192px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo2-dark.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop2-dark.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 2 Dark</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item demo"
+							style="position: absolute; left: 1451.25px; top: 3192px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/demo4-dark.html" title="demo">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/previews/shop4-dark.jpg" width="350"
+													height="259" class="img-fluid" alt="">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Demo 4 Dark</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item shop"
+							style="position: absolute; left: 0px; top: 3591px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/category.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/shop/full-width.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Full Width</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item shop"
+							style="position: absolute; left: 362.812px; top: 3591px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a
+										href="https://portotheme.com/html/porto_ecommerce/category-banner-boxed-image.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/shop/boxed-image.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Boxed Image</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item shop"
+							style="position: absolute; left: 725.624px; top: 3591px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/category-off-canvas.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/shop/off-canvas.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Off Canvas</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item shop"
+							style="position: absolute; left: 1088.44px; top: 3591px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/category-sidebar-right.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/shop/right-sidebar.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Right Sidebar</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item shop"
+							style="position: absolute; left: 1451.25px; top: 3591px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a
+										href="https://portotheme.com/html/porto_ecommerce/category-horizontal-filter1.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/shop/filter-one.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Horizontal Filter 1</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item shop"
+							style="position: absolute; left: 0px; top: 3990px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a
+										href="https://portotheme.com/html/porto_ecommerce/category-horizontal-filter2.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/shop/filter-two.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Horizontal Filter 2</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item shop"
+							style="position: absolute; left: 362.812px; top: 3990px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/category-list.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload="" data-original="landing/img/shop/list.jpg"
+													width="350" height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">List Type</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item shop"
+							style="position: absolute; left: 725.624px; top: 3990px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/category-infinite-scroll.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/shop/infinite.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Infinite Scroll</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item shop"
+							style="position: absolute; left: 1088.44px; top: 3990px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/category-4col.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload="" data-original="landing/img/shop/4-cols.jpg"
+													width="350" height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">4 Cols</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item shop"
+							style="position: absolute; left: 1451.25px; top: 3990px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/category-5col.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload="" data-original="landing/img/shop/5-cols.jpg"
+													width="350" height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">5 Cols</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item shop"
+							style="position: absolute; left: 0px; top: 4389px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/category-6col.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload="" data-original="landing/img/shop/6-cols.jpg"
+													width="350" height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">6 Cols</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item shop"
+							style="position: absolute; left: 362.812px; top: 4389px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/category-7col.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload="" data-original="landing/img/shop/7-cols.jpg"
+													width="350" height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">7 Cols</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item shop"
+							style="position: absolute; left: 725.624px; top: 4389px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/category-8col.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload="" data-original="landing/img/shop/8-cols.jpg"
+													width="350" height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">8 Cols</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item product"
+							style="position: absolute; left: 1088.44px; top: 4389px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/product.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/product/simple.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Simple</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item product"
+							style="position: absolute; left: 1451.25px; top: 4389px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/product-variable.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/product/variable.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Variable</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item product"
+							style="position: absolute; left: 0px; top: 4788px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/product-sidebar-left.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/product/left-sidebar.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Left Sidebar</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item product"
+							style="position: absolute; left: 362.812px; top: 4788px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/product-sidebar-right.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/product/right-sidebar.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Right Sidebar</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item product"
+							style="position: absolute; left: 725.624px; top: 4788px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/product-addcart-sticky.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/product/cart-sticky.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Cart Sticky</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item product"
+							style="position: absolute; left: 1088.44px; top: 4788px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/product-extended-layout.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/product/extended.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Extended</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item product"
+							style="position: absolute; left: 1451.25px; top: 4788px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/product-grid-layout.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload="" data-original="landing/img/product/grid.jpg"
+													width="350" height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Grid</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item product"
+							style="position: absolute; left: 0px; top: 5187px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/product-full-width.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/product/full-width.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Full Width</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item product"
+							style="position: absolute; left: 362.812px; top: 5187px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/product-sticky-info.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/product/sticky-info.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Sticky Info</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item product"
+							style="position: absolute; left: 725.624px; top: 5187px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/product-sticky-both.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/product/sticky-both.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Sticky Both</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item product"
+							style="position: absolute; left: 1088.44px; top: 5187px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a
+										href="https://portotheme.com/html/porto_ecommerce/product-transparent-image.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/product/transparent-image.jpg"
+													width="350" height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Transparent Image</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item product"
+							style="position: absolute; left: 1451.25px; top: 5187px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/product-center-vertical.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/product/center-vertical.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Center Vertical</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item other"
+							style="position: absolute; left: 0px; top: 5586px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/wishlist.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/others/wishlist.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Wishlist</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item other"
+							style="position: absolute; left: 362.812px; top: 5586px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/cart.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload="" data-original="landing/img/others/cart.jpg"
+													width="350" height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Shopping Cart</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item other"
+							style="position: absolute; left: 725.624px; top: 5586px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/checkout.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/others/checkout.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Checkout</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item other"
+							style="position: absolute; left: 1088.44px; top: 5586px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/dashboard.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/others/dashboard.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Dashboard</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item other"
+							style="position: absolute; left: 1451.25px; top: 5586px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/about.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload="" data-original="landing/img/others/about.jpg"
+													width="350" height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">About Us</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item other"
+							style="position: absolute; left: 0px; top: 5985px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/blog.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload="" data-original="landing/img/others/blog.jpg"
+													width="350" height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Blog</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item other"
+							style="position: absolute; left: 362.812px; top: 5985px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/single.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/others/blog-post.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Blog Single</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item other"
+							style="position: absolute; left: 725.624px; top: 5985px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/login.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload="" data-original="landing/img/others/login.jpg"
+													width="350" height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Log In</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-1-5 isotope-item other"
+							style="position: absolute; left: 1088.44px; top: 5985px;">
+							<div class="appear-animation animated" data-appear-animation="fadeInUpShorter"
+								data-appear-animation-delay="200" data-appear-animation-duration="750">
+								<div class="portfolio-item hover-effect-1 text-center">
+									<a href="https://portotheme.com/html/porto_ecommerce/forgot-password.html">
+										<span
+											class="thumb-info thumb-info-no-zoom thumb-info-no-overlay thumb-info-no-bg">
+											<span class="thumb-info-wrapper thumb-info-wrapper-demos m-0">
+												<img data-plugin-options="{&#39;threshold&#39;: 500, &#39;effect&#39;:&#39;fadeIn&#39;}"
+													src="./portfolio_v2.0_ecommerce_files/lazy.png"
+													data-plugin-lazyload=""
+													data-original="landing/img/others/password.jpg" width="350"
+													height="259" class="img-fluid" alt="preview">
+											</span>
+										</span>
+									</a>
+									<h5 class="text-color-dark text-capitalize mt-3">Forget Password</h5>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</section>
